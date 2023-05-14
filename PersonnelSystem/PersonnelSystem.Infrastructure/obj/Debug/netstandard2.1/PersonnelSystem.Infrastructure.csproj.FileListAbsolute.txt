@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\bin\Debug\netstandard2.1\PersonnelSystem.Infrastructure.deps.json
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\bin\Debug\netstandard2.1\PersonnelSystem.Infrastructure.dll
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\bin\Debug\netstandard2.1\PersonnelSystem.Infrastructure.pdb
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\bin\Debug\netstandard2.1\PersonnelSystem.Core.dll
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\bin\Debug\netstandard2.1\PersonnelSystem.Core.pdb
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\obj\Debug\netstandard2.1\PersonnelSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\obj\Debug\netstandard2.1\PersonnelSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\obj\Debug\netstandard2.1\PersonnelSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\obj\Debug\netstandard2.1\PersonnelSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\obj\Debug\netstandard2.1\PersonnelSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\obj\Debug\netstandard2.1\PersonnelSystem.Infrastructure.csproj.CopyComplete
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\obj\Debug\netstandard2.1\PersonnelSystem.Infrastructure.dll
+C:\Users\David\Desktop\task manager\Task-Maneger-System\PersonnelSystem\PersonnelSystem.Infrastructure\obj\Debug\netstandard2.1\PersonnelSystem.Infrastructure.pdb

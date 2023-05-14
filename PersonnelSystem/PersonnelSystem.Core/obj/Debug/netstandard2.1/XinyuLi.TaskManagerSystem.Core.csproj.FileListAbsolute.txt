@@ -1,0 +1,19 @@
+C:\Users\59284\source\repos\XinyuLi.TaskManagerSystem\XinyuLi.TaskManagerSystem.Core\bin\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.deps.json
+C:\Users\59284\source\repos\XinyuLi.TaskManagerSystem\XinyuLi.TaskManagerSystem.Core\bin\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.dll
+C:\Users\59284\source\repos\XinyuLi.TaskManagerSystem\XinyuLi.TaskManagerSystem.Core\bin\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.pdb
+C:\Users\59284\source\repos\XinyuLi.TaskManagerSystem\XinyuLi.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.csprojAssemblyReference.cache
+C:\Users\59284\source\repos\XinyuLi.TaskManagerSystem\XinyuLi.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.AssemblyInfoInputs.cache
+C:\Users\59284\source\repos\XinyuLi.TaskManagerSystem\XinyuLi.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.AssemblyInfo.cs
+C:\Users\59284\source\repos\XinyuLi.TaskManagerSystem\XinyuLi.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\59284\source\repos\XinyuLi.TaskManagerSystem\XinyuLi.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.dll
+C:\Users\59284\source\repos\XinyuLi.TaskManagerSystem\XinyuLi.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.pdb
+C:\Users\David\Desktop\task manager\Task-Maneger-System\XinyuLi.TaskManagerSystem\XinyuLi.TaskManagerSystem.Core\bin\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.deps.json
+C:\Users\David\Desktop\task manager\Task-Maneger-System\XinyuLi.TaskManagerSystem\XinyuLI.TaskManagerSystem.Core\bin\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.dll
+C:\Users\David\Desktop\task manager\Task-Maneger-System\XinyuLi.TaskManagerSystem\XinyuLI.TaskManagerSystem.Core\bin\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.pdb
+C:\Users\David\Desktop\task manager\Task-Maneger-System\XinyuLi.TaskManagerSystem\XinyuLI.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\task manager\Task-Maneger-System\XinyuLi.TaskManagerSystem\XinyuLI.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\task manager\Task-Maneger-System\XinyuLi.TaskManagerSystem\XinyuLI.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\task manager\Task-Maneger-System\XinyuLi.TaskManagerSystem\XinyuLI.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.AssemblyInfo.cs
+C:\Users\David\Desktop\task manager\Task-Maneger-System\XinyuLi.TaskManagerSystem\XinyuLI.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\task manager\Task-Maneger-System\XinyuLi.TaskManagerSystem\XinyuLI.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.dll
+C:\Users\David\Desktop\task manager\Task-Maneger-System\XinyuLi.TaskManagerSystem\XinyuLI.TaskManagerSystem.Core\obj\Debug\netstandard2.1\XinyuLi.TaskManagerSystem.Core.pdb

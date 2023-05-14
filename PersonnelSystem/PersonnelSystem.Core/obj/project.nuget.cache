@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ay0vwgFaQfjevBxMSEmygcmP/BSzJoNum9amwSxjhzEWFJYSZlfB3wPrhFC9Ag5rtpWtYL9QM/oWBP5QjaeTRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\Desktop\\task manager\\Task-Maneger-System\\PersonnelSystem\\PersonnelSystem.Core\\PersonnelSystem.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

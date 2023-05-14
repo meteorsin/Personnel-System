@@ -1,0 +1,22 @@
+.delete {
+    background-color:transparent;               
+    border: none;
+    color: lightskyblue;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+a:link {
+  color: lightskyblue;
+  background-color: transparent;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+h4{
+  text-align:center
+}
+.create{
+  text-align:center
+}
